@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# 📉 Project: Customer Churn Risk Tracker
 
 \*\*Business Case:\*\* In the DVD rental industry, retaining existing customers is more cost-effective than acquiring new ones. This project identifies "At-Risk" customers based on their inactivity and historical spending habits.
@@ -37,4 +38,21 @@ The script filters for a specific segment of the database:
 ---
 
 \*\*How to use:\*\* Run the script in your SQL tool. The output provides a targeted list for marketing teams to send "Re-engagement" discount codes to high-value users who are likely to churn.
+=======
+\# DVD Rental Analytics: Business Health Dashboard
+
+This project uses \*\*PostgreSQL\*\* to build a Materialized View for a DVD rental business.
+
+
+
+\### Key Features:
+
+\* \*\*CTE Logic\*\*: Organizes complex queries into readable blocks.
+
+\* \*\*Pivoting\*\*: Compares revenue across specific dates.
+
+\* \*\*Window Functions\*\*: Ranks staff performance using `DENSE\_RANK`.
+
+\* \*\*Performance\*\*: Uses a Materialized View for faster reporting.
+>>>>>>> 7278ec9859fc55a3c93f6de0866beaaaac0323fa
 
